@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "43766e251060ff1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "74cfda9742922fa4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Week 1/Week 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0654df86b20571c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc4257a2e0a048d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b0015f7305ef2a2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "71170e5d9d538919",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b1c787d14d213b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "086177136c8b5cdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fc09808e737ccb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c0180fb409b5efc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Week 1/Week 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d9cec152a83565c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Week 1/Week 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "831fc5d9dbeb23d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e4a7a1752612656e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Week 1/Week 1.md"
+              }
+            }
+          },
+          {
+            "id": "c290f7a5149a6d85",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "29cad7d6ed6d8c04",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "74cfda9742922fa4",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "Resources/Lecture7.pdf",
+    "Docs/Week 5/readme.md",
+    "Resources/RISCV_32I.pdf",
+    "Docs/Week 2/Notes on Implementation of Different Components.md",
+    "Docs/Week 1/Computer Architecture and Implementation.md",
+    "Docs/Week 2/Misc.png",
+    "Docs/Week 2/J-Type.png",
+    "Docs/Week 2/B-Type.png"
+  ]
+}

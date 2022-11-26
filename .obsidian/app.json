@@ -1,0 +1,13 @@
+{
+  "attachmentFolderPath": "./",
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "DMem",
+    "UJ",
+    "combinational",
+    "Quartus",
+    "ISAs"
+  ],
+  "alwaysUpdateLinks": true,
+  "communityThemeSortOrder": "download"
+}
